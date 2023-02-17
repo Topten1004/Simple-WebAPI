@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28315.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebAPIWithDapperandSwagger", "WebAPIWithDapperandSwagger\WebAPIWithDapperandSwagger.csproj", "{A80D15B9-9833-4687-BD21-0126D9096D36}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A80D15B9-9833-4687-BD21-0126D9096D36}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A80D15B9-9833-4687-BD21-0126D9096D36}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A80D15B9-9833-4687-BD21-0126D9096D36}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A80D15B9-9833-4687-BD21-0126D9096D36}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5E144DE5-92D8-474D-91AA-6637EA8C2560}
+	EndGlobalSection
+EndGlobal
